@@ -15,4 +15,4 @@ Another page that shows the data used to build them.
 
 
 ### Website Requirements
-ust have seven pages total
+Must have seven pages total
